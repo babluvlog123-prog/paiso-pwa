@@ -1,0 +1,15 @@
+{
+  "name": "Paiso",
+  "short_name": "Paiso",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#16a34a",
+  "theme_color": "#16a34a",
+  "icons": [
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgo-UuT8LEhgNpQtdO-ulqoS7sVI3YKABia2EATQNIAklbMmVJjlZgRFRVzGE4pELDKV5xjg3W9Msu8YOJL8OBeuJu9YG5DCBUcr2vqmdZgpr0d00V3mx1Dh00uj1eNJexhik1juvJlwO-sCyHujdV8IG-DP7I_jJqLeok_MBbEDv9KCezy6D7Riroo2Y/s1024/paiso%20icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
